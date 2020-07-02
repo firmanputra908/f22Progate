@@ -1,0 +1,71 @@
+.footer{
+    background-color: floralwhite;
+    width: auto;
+    color: dimgrey;
+    text-align: center;
+    margin-left: auto;
+    padding-left: auto;
+    border-top:1.5px solid grey;
+    padding-top: 2px;
+}
+.footer li{
+    list-style: none;
+}
+.about_us{
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 8px;
+    padding:1px;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 0.5px;
+    width: 25%;
+    float: left;
+}
+.Perusahaan{
+    padding-left: 35px;
+}
+.about_us_menu {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: normal;
+    
+}
+
+.Program{   
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 8px;
+    padding:1px;
+    text-align: left;
+    margin-left: 10px;
+    float: left;
+    width: 25%;
+}
+.Program-title{
+    padding-left: 35px;
+}
+.Program_menu{
+    font-size: 14px;
+    line-height: 10px;
+   font-weight: normal;
+}
+.Support{
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 8px;
+    padding:1px;
+    margin-left: 10px;
+    text-align: left;
+    float: left;
+    width: 25%;
+}
+.Support-title{
+    padding-left: 35px;
+}
+.Support_menu{
+    font-size: 14px;
+    line-height: 10px;
+    font-weight: normal;
+}
+
